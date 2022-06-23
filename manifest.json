@@ -1,0 +1,29 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "ZeferaMC.com",
+        "name": "ZeferaMC.com",
+        "uuid": "a93dda53-14cf-450c-bef8-fdd343791543",
+        "version": [
+            1,
+            0,
+            11
+        ],
+        "min_engine_version": [
+            1,
+            18,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "34622bfa-48c9-4a3a-b904-4c863a98e4ff",
+            "version": [
+                1,
+                0,
+                9
+            ]
+        }
+    ]
+}
